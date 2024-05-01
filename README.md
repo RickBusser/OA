@@ -1,7 +1,7 @@
 # OA
 OA coding example
-Run with python 3.12 on a windows machine
-usage: main.py [-h] --start START --floor FLOOR
+Ran with python 3.12 on a windows machine
+```usage: main.py [-h] --start START --floor FLOOR```
 
 Tested the following:
 python main.py --start 12 --floor 2,9,1,32
